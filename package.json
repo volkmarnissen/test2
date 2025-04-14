@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "sh -c 'echo testing... && sleep 10 && exit 2'"
-   },
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@modbus2mqtt/test1": "github:modbus2mqtt/test1"
+    "@modbus2mqtt/test1": "github:modbus2mqtt/test1#v1.0.4"
   }
 }
